@@ -202,6 +202,60 @@ body {
   }
 }
 
+.text-lg	{
+  font-size: 1.125rem; /* 18px */
+  line-height: 1.75rem; /* 28px */
+  
+}
+
+.text-4xl	{
+  font-size: 2.25rem; /* 36px */
+line-height: 2.5rem; /* 40px */
+
+}
+
+.gambar-2 {
+  width: 740px;
+  height: 550px;
+}
+
+.gambar-3 {
+  width: 1780px;
+  height: 760px;
+}
+
+.gambar-4 {
+  width: 630px;
+  height: 500px;
+}
+
+.gambar-5 {
+  width: 422px;
+  height: 550px;
+}
+
+.text-5xl {
+  font-size: 3rem; /* 48px */
+line-height: 1;
+}
+
+.text-7xl	{
+  font-size: 4.5rem; /* 72px */
+line-height: 1;
+}
+
+.text-8xl	{
+  font-size: 6rem; /* 96px */
+line-height: 1;
+
+}
+
+.text-9xl	{
+  font-size: 8rem; /* 128px */
+  line-height: 1;
+  
+}
+
 .mt-minus-85 {
   margin-top: -85px;
 }

@@ -215,6 +215,9 @@ line-height: 2.5rem; /* 40px */
 }
 
 .gambar-2 {
+  object-fit: cover;
+  background-repeat: no-repeat;
+  background-size: cover;
   width: 740px;
   height: 550px;
 }
@@ -226,9 +229,7 @@ line-height: 2.5rem; /* 40px */
 
 .gambar-4 {
   width: 100%;
-  height: 550px;
-  background-repeat: no-repeat;
-  background-size: cover;
+  height: 100%;
 }
 
 .gambar-5 {
@@ -3170,7 +3171,9 @@ ul.check-style-two.check-width-50 {
   overflow: hidden;
 }
 .single-gallery-item-two .gallery-img img {
-  width: 100%;
+  width: 400px;
+  height: 320px;
+  object-fit: cover;
 }
 .single-gallery-item-two .gallery-img .hover-content {
   position: absolute;

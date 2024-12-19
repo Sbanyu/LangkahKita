@@ -225,8 +225,10 @@ line-height: 2.5rem; /* 40px */
 }
 
 .gambar-4 {
-  width: 630px;
-  height: 500px;
+  width: 100%;
+  height: 550px;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .gambar-5 {
